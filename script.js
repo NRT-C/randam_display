@@ -1,7 +1,12 @@
 var images = [
-    "image1.jpg",
-    "image2.jpg",
-    "image3.jpg",
+    "image_eraser.jpg",
+    "image_24wood.jpg",
+    "image_bed.jpg",
+    "image_rocket.jpg",
+    "image_ricecooker.jpg",
+    "image_tent.jpg",
+    "image_pen.jpg",
+    "image_island.jpg",
     // add as many images as you want
 ];
 
